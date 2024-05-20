@@ -1,0 +1,8 @@
+.searchButton {
+  margin-left: 20px;
+  width: 130px;
+  border: none;
+  border-radius: 6px;
+  height: 55px;
+  background-color: #1976d2;
+}
